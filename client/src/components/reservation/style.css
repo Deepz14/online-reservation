@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.reservation-container{
+    box-shadow: 0 0 5px 0 gray;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}

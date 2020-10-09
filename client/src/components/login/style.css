@@ -1,0 +1,29 @@
+.inp-field{
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid gray;
+    padding: 5px 5px;
+    font-size: 20px;
+}
+.login-card{
+    max-width: 500px;
+}
+.navbar{
+    background-color: #354f52;
+    color: white;
+    /* box-shadow: 0 0 5px gray; */
+}
+.navLinks{
+    /* font-weight: 500; */
+    margin-left: auto;
+    text-align: center;
+}
+.nav-item{
+    color: white !important;
+    font-family: 'Roboto', sans-serif;
+}
+.brand-name{
+    margin-left: 5%;
+    font-size: 1.5rem !important;
+    font-family: 'Roboto', sans-serif;
+}
